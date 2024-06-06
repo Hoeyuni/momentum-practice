@@ -20,7 +20,7 @@ const mentions = [
     author: "버질",
   },
   {
-    mention: "실패도 배우는 것이 있으면 성공이다",
+    mention: "실패도 배우는 것이 있으면 성공이다.",
     author: "말콤 포브스",
   },
   {
